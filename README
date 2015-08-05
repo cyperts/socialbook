@@ -1,1 +1,87 @@
-hi.....
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title></title>
+<meta name="" content="">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+<link rel="stylesheet" href="css/custom.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-lg-2 logo"><img src="images/logo.jpg"/></div>
+		<div class="col-lg-10 top-right">
+			<div class="pull-right"><img src="images/flag.jpg"/></div>
+			<div class="clearfix"></div>
+			<div class="nav pull-right">
+				<ul>                                                            
+					<li><a href="#">Home</a></li>
+					<li><a href="#">Create YearBook</a></li>
+					<li><a href="#">Print</a></li>
+					<li><a href="#">Products</a></li>
+					<li><a href="#">FAQ</a></li>
+					<li><a href="#">Contact</a></li>
+					<li><a href="#" class="basket">Basket</a></li>					
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="row header">
+		<img class="center-block img-responsive" src="images/header.jpg"/>
+	</div>
+	<div class="row">
+		<div class="col-lg-4 box blue">
+			<div class="pull-left social"><a href="#"><img src="images/fb.png"/></a></div>
+			<div class="pull-left socialt">
+				<h3><a href="#">Facebook</a></h3>
+				<h5>Connect to Facebook and select<br />the timeperiod and Create YearBook</h5>
+			</div>
+		</div>
+		<div class="col-lg-4 box brown">
+			<div class="pull-left social"><a href="#"><img src="images/insta.png"/></a></div>
+			<div class="pull-left socialt">
+				<h3><a href="#">Instagram</a></h3>
+				<h5>Connect to Instagram and select<br />the time period and Create YearBook</h5>
+			</div>
+		</div>
+		<div class="col-lg-4 box sky-blue">
+			<div class="pull-left social"><a href="#"><img src="images/tweet.png"/></a></div>
+			<div class="pull-left socialt">
+				<h3><a href="#">Twitter</a></h3>
+				<h5>Connect to Twitter and select<br /> the time period and Create YearBook</h5>
+			</div>
+		</div>
+	</div>
+	
+	<!--<div class="row">
+		<div class="col-lg-4 box2 deep-blue">Disconnect</div>
+		<div class="col-lg-4 box2 deep-brown">Disconnect</div>
+		<div class="col-lg-4 box2 deep-sky-blue">Disconnect</div>
+	</div>-->
+	<div class="content row">
+		<div class="album">
+			<div class="pull-left"><img src="images/album.jpg"/></div>
+			<div class="pull-left">			
+				<h3>Mixed Album</h3>
+				<h5>Create YearBook with Facebook, Instagram, Twitter, & uploaded Pictures</h5>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+	<div class="footer row">
+		<div class="pull-left foot-social">
+			<img src="images/social.jpg"/><br /><br />
+			©2015 Viccii Yearbook, All Rights Reserved.
+		</div>
+		<div class="pull-right foot-pay">
+			<img class="pull-right" src="images/pay.jpg"/><br /><br />
+			<div class="clearfix"></div>
+			<p><a href="">Imprint</a><a href="">Terms and Conditions</a><a href="">Privacy Policy</a></p>
+		</div>
+	</div>
+</div>
+</body>
+</html> 
